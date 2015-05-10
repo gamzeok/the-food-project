@@ -37,20 +37,21 @@ Mücver is a Turkish fritter, similar to a pancake made from grated squash, cour
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-![Screenshot](/post-assets/recipes/mucver/mucver-01.jpg)
+![]({{ '/post-assets/recipes/mucver/mucver-01.jpg' | prepend: site.baseurl }})
+
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-![Screenshot](/post-assets/recipes/mucver/mucver-02.jpg)
+![]({{ '/post-assets/recipes/mucver/mucver-02.jpg' | prepend: site.baseurl }})
 
 ### Sauce
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-![Screenshot](/post-assets/recipes/mucver/mucver-02.jpg)
+![]({{ '/post-assets/recipes/mucver/mucver-01.jpg' | prepend: site.baseurl }})
 
 ### Serve
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-![Screenshot](/post-assets/recipes/mucver/mucver-served.jpg)
+![]({{ '/post-assets/recipes/mucver/mucver-served.jpg' | prepend: site.baseurl }})
