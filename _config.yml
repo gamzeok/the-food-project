@@ -1,0 +1,19 @@
+# Site settings
+title: Turkish Cuisine
+description: > # this means to ignore newlines until "baseurl:"
+  *Turkish Cuisine* is a project to introduce Turkish kitchen to people all around the world. All content is
+  licensed under [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://gamzeok.github.io" # the base hostname & protocol for your site
+twitter_username: gamzeok
+github_username:  gamzeok
+
+# Build settings
+markdown: kramdown
+
+# see http://melandri.net/2013/11/24/manage-posts-excerpt-in-jekyll/
+excerpt_separator: <!--more-->
+
+collections:
+  recipes:
+    output: true

@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "Mücver"
+date:   2015-05-09 23:47:08
+banner: "/post-assets/recipes/mucver/mucver-served.jpg"
+thumbnail: "/post-assets/recipes/mucver/mucver-served-thumb.jpg"
+alternate_banner: True
+banner_attribution: ""
+banner_source: ""
+recipe_summary:
+    exoticness: fairly exotic (3/5)
+    persons: 4 persons
+    total_time: less than 2 hours
+    complexity: easy (2/5)
+    vegan: True 
+recipe_ingredients:
+  - group: Base ingredients
+    content:
+        - Salt 1 tsp
+        - Zucchini 500g
+  - group: Sauce ingredients            
+    content:
+        - Yoghurt 500g
+        - Salt 2 tsp
+        - Salt 2 tsp
+---
+
+Mücver is a Turkish fritter, similar to a pancake made from grated squash, courgette or potatoes, egg, onion, dill, cheese and flour.
+
+<!--more-->
+
+{% include recipe-summary.html %}
+
+{% include recipe-ingredients.html %}
+
+### Prepare
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+![Screenshot](/post-assets/recipes/mucver/mucver-01.jpg)
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+![Screenshot](/post-assets/recipes/mucver/mucver-02.jpg)
+
+### Sauce
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+![Screenshot](/post-assets/recipes/mucver/mucver-02.jpg)
+
+### Serve
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+![Screenshot](/post-assets/recipes/mucver/mucver-served.jpg)

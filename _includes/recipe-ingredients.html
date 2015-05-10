@@ -1,0 +1,8 @@
+{% for ingredient_group in page.recipe_ingredients %}
+<h4 class="ingredient-group-header">{{ ingredient_group.group }}</h4>
+<ul>
+    {% for ingredient in ingredient_group.content %}
+    <li>{{ ingredient }}</li>
+    {% endfor %}
+</ul>
+{% endfor %}

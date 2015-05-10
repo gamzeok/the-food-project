@@ -1,0 +1,18 @@
+* Facebook comments instead of Disqus
+* Update Google Analytics
+* Logo
+** Use in about page and layout-head
+* Tweet, FB-like, Pinterest, G+ sayisi
+* Share butonu
+* Resimler basinca buyusun!
+
+* Bazi kriterler! Hem listede hem de detay sayfasinda
+** Kac dakika hazirlamasi suruyor
+** Ne kadar pisme suresi
+** Toplam ne kadar zaman
+** Kac kisilik tarif
+** Complexity : 1-5
+** Malzemelerin her yerde bulunabilmesi
+** Exotic tat : 1-5
+** Vegan/vegetarian?
+**
