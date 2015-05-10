@@ -12,7 +12,7 @@ require "jekyll"
 
 
 # Change your GitHub reponame
-GITHUB_REPONAME = "gamzeok/gamzeok.github.io"
+GITHUB_REPONAME = "gamzeok/the-food-project"
 
 
 namespace :site do
