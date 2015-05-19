@@ -1,3 +1,6 @@
+* Get a Twitter account
+* Review about page
+* Logo
 * Facebook comments instead of Disqus
 * Update Google Analytics
 * Logo
