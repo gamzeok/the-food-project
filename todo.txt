@@ -13,9 +13,5 @@
 ** Kac dakika hazirlamasi suruyor
 ** Ne kadar pisme suresi
 ** Toplam ne kadar zaman
-** Kac kisilik tarif
-** Complexity : 1-5
 ** Malzemelerin her yerde bulunabilmesi
-** Exotic tat : 1-5
-** Vegan/vegetarian?
 **
