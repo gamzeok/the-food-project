@@ -2,11 +2,39 @@
 
 
 <div class="recipe-summary-table">
-    <span class="recipe-summary-item">{% icon fa-fire fa-2x%} {{ page.recipe_summary.exoticness }}</span>
-    <span class="recipe-summary-item">{% icon fa-users fa-2x %} {{ page.recipe_summary.persons }}</span>
+    <span class="recipe-summary-item">{% icon fa-fire fa-2x%}
+        {% case page.recipe_summary.exoticness %}
+        {% when 1 %}
+             easy taste
+        {% when 2 %}
+             slightly exotic taste
+        {% when 3 %}
+             exotic taste
+        {% endcase %}
+    </span>
+
+    <span class="recipe-summary-item">{% icon fa-users fa-2x %} {{ page.recipe_summary.persons }} persons</span>
+
     <span class="recipe-summary-item">{% icon fa-clock-o fa-2x %} {{ page.recipe_summary.total_time }}</span>
-    <span class="recipe-summary-item">{% icon fa-wrench fa-2x %} {{ page.recipe_summary.complexity }}</span>
-    <span class="recipe-summary-item">{% icon fa-leaf fa-2x %} {{ page.recipe_summary.vegan }}</span>
+
+    <span class="recipe-summary-item">{% icon fa-wrench fa-2x %}
+    {% case page.recipe_summary.complexity %}
+    {% when 1 %}
+         easy to prepare
+    {% when 2 %}
+         slightly hard to prepare
+    {% when 3 %}
+         complex preparation
+    {% endcase %}
+    </span>
+
+    {% if page.recipe_summary.vegan %}
+        <span class="recipe-summary-item">{% icon fa-leaf fa-2x %} vegan</span>
+    {% endif %}
+
+    {% if page.recipe_summary.vegetarian %}
+        <span class="recipe-summary-item">{% icon fa-leaf fa-2x %} vegetarian</span>
+    {% endif %}
 </div>
 
 <!--following is there for bottom margin-->

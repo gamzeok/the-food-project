@@ -8,11 +8,12 @@ alternate_banner: True
 banner_attribution: ""
 banner_source: ""
 recipe_summary:
-    exoticness: fairly exotic (3/5)
-    persons: 4 persons
+    exoticness: 1
+    persons: 4
     total_time: less than 2 hours
-    complexity: easy (2/5)
-    vegan: True 
+    complexity: 1
+    vegan: True
+    vegetarian: False
 recipe_ingredients:
   - group: Base ingredients
     content:
@@ -32,6 +33,12 @@ Mücver is a Turkish fritter, similar to a pancake made from grated squash, cour
 {% include recipe-summary.html %}
 
 {% include recipe-ingredients.html %}
+
+### History
+
+Mucver was first prepared by people living in Aegean coast. Mucver was first prepared by people living in Aegean coast. 
+Mucver was first prepared by people living in Aegean coast. 
+
 
 ### Prepare
 
