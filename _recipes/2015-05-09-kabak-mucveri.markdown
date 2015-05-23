@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Mücver"
+title:  "Kabak Mücveri"
 date:   2015-05-09 23:47:08
-banner: "/post-assets/recipes/mucver/mucver-served.jpg"
-thumbnail: "/post-assets/recipes/mucver/mucver-served-thumb.jpg"
+banner: "/post-assets/recipes/kabak-mucveri/kabak_mucveri-banner.jpg"
+thumbnail: "/post-assets/recipes/kabak-mucveri/kabak_mucveri-thumb.jpg"
 alternate_banner: True
 banner_attribution: ""
 banner_source: ""
@@ -44,21 +44,31 @@ Mucver was first prepared by people living in Aegean coast.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-![]({{ '/post-assets/recipes/mucver/mucver-01.jpg' | prepend: site.baseurl }})
+![]({{ '/post-assets/recipes/kabak-mucveri/kabak_mucveri_01.jpg' | prepend: site.baseurl }})
 
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-![]({{ '/post-assets/recipes/mucver/mucver-02.jpg' | prepend: site.baseurl }})
+![]({{ '/post-assets/recipes/kabak-mucveri/kabak_mucveri_02.jpg' | prepend: site.baseurl }})
 
 ### Sauce
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-![]({{ '/post-assets/recipes/mucver/mucver-01.jpg' | prepend: site.baseurl }})
+![]({{ '/post-assets/recipes/kabak-mucveri/kabak_mucveri_03.jpg' | prepend: site.baseurl }})
 
 ### Serve
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-![]({{ '/post-assets/recipes/mucver/mucver-served.jpg' | prepend: site.baseurl }})
+![]({{ '/post-assets/recipes/kabak-mucveri/kabak_mucveri_04.jpg' | prepend: site.baseurl }})
+
+![]({{ '/post-assets/recipes/kabak-mucveri/kabak_mucveri_05.jpg' | prepend: site.baseurl }})
+
+![]({{ '/post-assets/recipes/kabak-mucveri/kabak_mucveri_06.jpg' | prepend: site.baseurl }})
+
+![]({{ '/post-assets/recipes/kabak-mucveri/kabak_mucveri_07.jpg' | prepend: site.baseurl }})
+
+![]({{ '/post-assets/recipes/kabak-mucveri/kabak_mucveri_08.jpg' | prepend: site.baseurl }})
+
+![]({{ '/post-assets/recipes/kabak-mucveri/kabak_mucveri_09.jpg' | prepend: site.baseurl }})

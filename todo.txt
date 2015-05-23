@@ -5,8 +5,7 @@
 * Update Google Analytics
 * Logo
 ** Use in about page and layout-head
-* Tweet, FB-like, Pinterest, G+ sayisi
-* Share butonu
+* Share butonu / Tweet, FB-like, Pinterest, G+ sayisi : simplesharebuttons branch'inda var. ama metadata ayarlari lazim FB'de Twitter'da falan guzel bir sekilde paylasmak icin.
 * Resimler basinca buyusun!
 
 * Bazi kriterler! Hem listede hem de detay sayfasinda
