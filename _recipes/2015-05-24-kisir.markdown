@@ -1,0 +1,78 @@
+---
+layout: post
+title:  "Kisir"
+date:   2015-05-24 22:04:08
+banner: "/post-assets/recipes/kisir/kisir_banner.jpg"
+thumbnail: "/post-assets/recipes/kisir/kisir_thumb.jpg"
+alternate_banner: True
+banner_attribution: ""
+banner_source: ""
+recipe_summary:
+    exoticness: 2
+    persons: 4
+    total_time: 45 minutes
+    complexity: 1
+    vegan: True
+    vegetarian: False
+recipe_ingredients:
+  - group: Base ingredients
+    content:
+        - Salt 1 tsp
+        - Zucchini 500g
+  - group: Sauce ingredients            
+    content:
+        - Yoghurt 500g
+        - Salt 2 tsp
+        - Salt 2 tsp
+---
+
+Kisir is bla bla bla.
+
+<!--more-->
+
+{% include recipe-summary.html %}
+
+{% include recipe-ingredients.html %}
+
+### History
+
+Kisir was first prepared by people living in Aegean coast. Kisir was first prepared by people living in Aegean coast. 
+Kisir was first prepared by people living in Aegean coast. 
+
+
+### Prepare
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+![]({{ '/post-assets/recipes/kisir/kisir_01.jpg' | prepend: site.baseurl }})
+
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+![]({{ '/post-assets/recipes/kisir/kisir_02.jpg' | prepend: site.baseurl }})
+
+### Sauce
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+![]({{ '/post-assets/recipes/kisir/kisir_03.jpg' | prepend: site.baseurl }})
+
+### Serve
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+![]({{ '/post-assets/recipes/kisir/kisir_04.jpg' | prepend: site.baseurl }})
+
+![]({{ '/post-assets/recipes/kisir/kisir_05.jpg' | prepend: site.baseurl }})
+
+![]({{ '/post-assets/recipes/kisir/kisir_06.jpg' | prepend: site.baseurl }})
+
+![]({{ '/post-assets/recipes/kisir/kisir_07.jpg' | prepend: site.baseurl }})
+
+![]({{ '/post-assets/recipes/kisir/kisir_08.jpg' | prepend: site.baseurl }})
+
+![]({{ '/post-assets/recipes/kisir/kisir_09.jpg' | prepend: site.baseurl }})
+
+![]({{ '/post-assets/recipes/kisir/kisir_10.jpg' | prepend: site.baseurl }})
+
+![]({{ '/post-assets/recipes/kisir/kisir_11.jpg' | prepend: site.baseurl }})
