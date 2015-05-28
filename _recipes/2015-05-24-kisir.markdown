@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kisir"
+title:  "Kısır"
 date:   2015-05-24 22:04:08
 banner: "/post-assets/recipes/kisir/kisir_banner.jpg"
 thumbnail: "/post-assets/recipes/kisir/kisir_thumb.jpg"
@@ -8,70 +8,63 @@ alternate_banner: True
 banner_attribution: ""
 banner_source: ""
 recipe_summary:
-    exoticness: 2
-    persons: 4
+    exoticness: 1
+    persons: 6
     total_time: 45 minutes
     complexity: 1
     vegan: True
     vegetarian: False
 recipe_ingredients:
-  - group: Base ingredients
+  - group: Ingredients
     content:
-        - Salt 1 tsp
-        - Zucchini 500g
-  - group: Sauce ingredients            
-    content:
-        - Yoghurt 500g
-        - Salt 2 tsp
-        - Salt 2 tsp
+        - 2 cup of fine bulgur        - 1 cup of hot water        - 1 onion, finely chopped        - 2 cloves garlic, finely chopped        - ½ cup of olive oil        - 1 ½ tsp salt        - 1 tsp mint        - 1 tsp black pepper        - 1 tsp red pepper        - 1 tsp cumin         - 1 ½ tbsp tomato paste or 1 tbsp turkish salça        - ½ bunch green onions, finely chopped        - 1 bunch flat leaf parsley, finely chopped        - 1 head romain lettuce, finely chopped        - 5-6 tomatoes        - ½-1 lemon (after tasting you can add the second half)
+
 ---
 
-Kisir is bla bla bla.
+Kısır is a traditional Turkish salad that can be served as meze or at afternoon tea hour. It is definetely one of the indispensable dishes of meetings of housewieves.
+<!--more-->
 
-<!--more-->
+Although it is very popular in the southern part of Turkey, there are different receipes in different regions.The differences from Tabbouleh are being much spicier and having salca in it.  It can be served with **Ayran** and **Turkish tea**. 
+
 
 {% include recipe-summary.html %}
 
 {% include recipe-ingredients.html %}
 
-### History
-
-Kisir was first prepared by people living in Aegean coast. Kisir was first prepared by people living in Aegean coast. 
-Kisir was first prepared by people living in Aegean coast. 
-
 
 ### Prepare
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+* Chopp tomatoes, green onion, leaf parsley and romain lettuce finely 
 
 ![]({{ '/post-assets/recipes/kisir/kisir_01.jpg' | prepend: site.baseurl }})
 
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
+![]({{ '/post-assets/recipes/kisir/kisir_06.jpg' | prepend: site.baseurl }})
+	
+* Put bulgur in a big bowl* Pour hot water on it* Cover bowl with a plastic wrap
 ![]({{ '/post-assets/recipes/kisir/kisir_02.jpg' | prepend: site.baseurl }})
 
-### Sauce
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-![]({{ '/post-assets/recipes/kisir/kisir_03.jpg' | prepend: site.baseurl }})
-
-### Serve
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-![]({{ '/post-assets/recipes/kisir/kisir_04.jpg' | prepend: site.baseurl }})
+* Heat the oil in a pan* Sauté the garlic and onion for 3 minutes* Add tomato paste first and stir for 1 minute before adding salt and spices
+		![]({{ '/post-assets/recipes/kisir/kisir_03.jpg' | prepend: site.baseurl }})
+![]({{ '/post-assets/recipes/kisir/kisir_04.jpg' | prepend: site.baseurl }})
 
 ![]({{ '/post-assets/recipes/kisir/kisir_05.jpg' | prepend: site.baseurl }})
 
-![]({{ '/post-assets/recipes/kisir/kisir_06.jpg' | prepend: site.baseurl }})
+* Bulgur is not raw anymore and onion sauce is also ready. Add this onion sauce into the bulgur and stir this mixture
 
 ![]({{ '/post-assets/recipes/kisir/kisir_07.jpg' | prepend: site.baseurl }})
 
 ![]({{ '/post-assets/recipes/kisir/kisir_08.jpg' | prepend: site.baseurl }})
 
+* Knead it a little * While waiting it to be cooled, mix all other ingredients (tomatoes, romain lettuce, green onions and lemon) in another bowl* Add these chopped vegetables to bulgur* Toss it gently with your hands until everything is throughly combined
+
+
+* Bulgur in three steps:
 ![]({{ '/post-assets/recipes/kisir/kisir_09.jpg' | prepend: site.baseurl }})
+
+
+### Serve
+
+* You can serve with any of lemon, tomatoes, cucumber and/or romain lettuce
 
 ![]({{ '/post-assets/recipes/kisir/kisir_10.jpg' | prepend: site.baseurl }})
 
