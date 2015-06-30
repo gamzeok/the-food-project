@@ -17,33 +17,39 @@ recipe_summary:
 recipe_ingredients:
   - group: Base ingredients
     content:
-        - 5 zucchinis
-        - 1 onion
-        - Chopped 1 bunch of flat leaf parsley
-        - Chopped 1 bunch of dill
+        - 5 zucchinis, grated
+        - 1 onion, grated
+        - 1 bunch of flat leaf parsley, finely chopped
+        - 1 bunch of dill, finely chopped
         - 1 tsp salt
         - 1 tsp black pepper
-        - 1 tsp hot red pepper
+        - 1 tsp red hot pepper
         - 1 tsp cumin
-        - 100 gr mozerella or white cheese
+        - 100 gr mozerella or white cheese, grated
+        - 1.5 - 2 cups of flour
         - 1 cup of oil for frying
   - group: Sauce ingredients            
     content:
         - 500g yoghurt
         - 2 tsp salt
-        - 2 cloves garlic
+        - 2 cloves garlic, finely grated
 ---
-The most wellknown **Mücver** is the one which is made by zucchini.
+Mücver is a fritter which is made mainly from zucchinis. 
 
 <!--more-->
 
-**Mücver** is the common word for vegetable fritters in Türkish. Instead of zucchini; potato, carrot, leek or even fish or combination of some of them can be used. The remaining ingredients are almost the same but the amounts would change.
+Mücver is the common word for vegetable fritters in Turkish. The most common one is made from zucchini. Instead of zucchini; potato, carrot, leek or even fish or combination of some of them can be used. The remaining ingredients are almost the same but the amounts would change.
+
+{% include recipe-summary.html %}
+
+{% include recipe-ingredients.html %}
 
 ### Prepare
 
-* Grate oninon, zucchinis and cheese
-* Add finely chopped dill and parsley
-* Add egg, spicies and salt and mix them shortly
+* Grate zucchini, onion and cheese
+* Chop parsley and dill
+* Mix them in a bowl and add all other ingredients except flour
+* Add flour slowly. Amount of the flour depends on the other ingredients 
 
 ![]({{ '/post-assets/recipes/kabak-mucveri/kabak_mucveri_01.jpg' | prepend: site.baseurl }})
 
@@ -67,7 +73,7 @@ The most wellknown **Mücver** is the one which is made by zucchini.
 
 * Add salt and grated garlic to yoghurt 
 
-![]({{ '/post-assets/recipes/kabak-mucveri/kabak_mucveri_07.jpg' | prepend: site.baseurl }})
+### Serve
 
 ![]({{ '/post-assets/recipes/kabak-mucveri/kabak_mucveri_08.jpg' | prepend: site.baseurl }})
 
