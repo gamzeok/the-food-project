@@ -37,11 +37,15 @@ recipe_ingredients:
 ---
 
 Kısır is a traditional Turkish salad that can be served as meze or at afternoon tea hour. 
-<!--more-->
+
+<!--more-->
 It is one of the indispensable dishes of meetings of housewieves.
 
-Although it is very popular in the southern part of Turkey, there are different receipes in different regions.The difference from Arabic *Tabbouleh* is that Kısır has salça (tomato paste) and different spices.
-It can be served with **Ayran** or **Turkish tea**. 
+Although it is very popular in the southern part of Turkey, there are different receipes in different regions.
+
+The difference from Arabic *Tabbouleh* is that Kısır has salça (tomato paste) and different spices.
+
+It can be served with **Ayran** or **Turkish tea**. 
 
 {% include recipe-summary.html %}
 
@@ -58,7 +62,8 @@ Although it is very popular in the southern part of Turkey, there are different 
 
 * Put bulgur in a big bowl
 * Pour hot water on it
-* Cover the bowl with a plastic wrap
+* Cover the bowl with a plastic wrap
+
 ![]({{ '/post-assets/recipes/kisir/kisir_02.jpg' | prepend: site.baseurl }})
 
 * Heat the oil in a pan
@@ -76,19 +81,22 @@ Although it is very popular in the southern part of Turkey, there are different 
 ![]({{ '/post-assets/recipes/kisir/kisir_08.jpg' | prepend: site.baseurl }})
 
 
-* Knead it a little * While waiting it to be cooled, mix all other ingredients (tomatoes, romain lettuce, green onions and lemon) in another bowl
+* Knead it a little 
+* While waiting it to be cooled, mix all other ingredients (tomatoes, romain lettuce, green onions and lemon) in another bowl
 
-* !! BURAYA SADECE DOGRANMIS SEBZELERIN RESMI KONULAAA
-* Add these chopped vegetables to bulgur* Toss it gently with your hands until everything is throughly combined
+![]({{ '/post-assets/recipes/kisir/kisir_09.jpg' | prepend: site.baseurl }})
+
+* Add these chopped vegetables to bulgur
+* Toss it gently with your hands until everything is throughly combined
 
 * Bulgur in three steps:
-![]({{ '/post-assets/recipes/kisir/kisir_09.jpg' | prepend: site.baseurl }})
+![]({{ '/post-assets/recipes/kisir/kisir_10.jpg' | prepend: site.baseurl }})
 
 
 ### Serve
 
 * You can serve with any of lemon, tomatoes, cucumber and/or romain lettuce
 
-![]({{ '/post-assets/recipes/kisir/kisir_10.jpg' | prepend: site.baseurl }})
-
 ![]({{ '/post-assets/recipes/kisir/kisir_11.jpg' | prepend: site.baseurl }})
+
+![]({{ '/post-assets/recipes/kisir/kisir_12.jpg' | prepend: site.baseurl }})
