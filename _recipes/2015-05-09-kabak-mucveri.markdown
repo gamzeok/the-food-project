@@ -2,8 +2,8 @@
 layout: post
 title:  "Kabak Mücveri"
 date:   2015-05-09 12:00:00
-banner: "/post-assets/recipes/kabak-mucveri/kabak_mucveri-banner.jpg"
-thumbnail: "/post-assets/recipes/kabak-mucveri/kabak_mucveri-thumb.jpg"
+banner: "/post-assets/recipes/kabak-mucveri/kabak_mucveri_banner.jpg"
+thumbnail: "/post-assets/recipes/kabak-mucveri/kabak_mucveri_thumb.jpg"
 alternate_banner: True
 banner_attribution: ""
 banner_source: ""
