@@ -55,15 +55,10 @@ Although it is very popular in the southern part of Turkey, there are different 
 ![]({{ '/post-assets/recipes/kisir/kisir_01.jpg' | prepend: site.baseurl }})
 
 ![]({{ '/post-assets/recipes/kisir/kisir_06.jpg' | prepend: site.baseurl }})
-	
-<<<<<<< Updated upstream
+
 * Put bulgur in a big bowl
 * Pour hot water on it
-* Cover bowl with a plastic wrap
-
-=======
-* Put bulgur in a big bowl* Pour hot water on it* Cover the bowl with a plastic wrap
->>>>>>> Stashed changes
+* Cover the bowl with a plastic wrap
 ![]({{ '/post-assets/recipes/kisir/kisir_02.jpg' | prepend: site.baseurl }})
 
 * Heat the oil in a pan
@@ -78,24 +73,13 @@ Although it is very popular in the southern part of Turkey, there are different 
 
 * Bulgur is not raw anymore and onion sauce is also ready. Add this onion sauce into the bulgur and stir this mixture
 
-* !! ALTTAKI ILK RESIM SILINECEK
-
-![]({{ '/post-assets/recipes/kisir/kisir_07.jpg' | prepend: site.baseurl }})
-
 ![]({{ '/post-assets/recipes/kisir/kisir_08.jpg' | prepend: site.baseurl }})
 
-<<<<<<< Updated upstream
-* Knead it a little 
-* While waiting it to be cooled, mix all other ingredients (tomatoes, romain lettuce, green onions and lemon) in another bowl
-* Add these chopped vegetables to bulgur
-* Toss it gently with your hands until everything is throughly combined
-=======
+
 * Knead it a little * While waiting it to be cooled, mix all other ingredients (tomatoes, romain lettuce, green onions and lemon) in another bowl
 
 * !! BURAYA SADECE DOGRANMIS SEBZELERIN RESMI KONULAAA
 * Add these chopped vegetables to bulgur* Toss it gently with your hands until everything is throughly combined
->>>>>>> Stashed changes
-
 
 * Bulgur in three steps:
 ![]({{ '/post-assets/recipes/kisir/kisir_09.jpg' | prepend: site.baseurl }})
