@@ -1,0 +1,102 @@
+---
+layout: post
+title:  "Aşure"
+date:   2015-06-30 12:00:00
+banner: "/post-assets/recipes/kabak-mucveri/kabak_mucveri-banner.jpg"
+thumbnail: "/post-assets/recipes/kabak-mucveri/kabak_mucveri-thumb.jpg"
+alternate_banner: True
+banner_attribution: ""
+banner_source: ""
+recipe_summary:
+    exoticness: 3
+    persons: 12
+    total_time: 3
+    complexity: 3
+    vegan: True
+    vegetarian: True 
+recipe_ingredients:
+  - group: Base ingredients
+    content:
+        - 1 kg barley
+        - 600 gr chickpeas
+        - 600 gr white kidney beans
+        - 100 gr corn seeds
+        - 500 gr dry apricots
+        - 500 gr dry grape
+        - 500 gr dry fig
+        - 200 gr roasted peanut
+        - 5 cloves 
+        - 2 tbsp diced quince
+        - 1 tbsp grated orange zest
+        - 1 kg sugar
+        - Water
+  - group: Garnish           
+    content:
+        - Pomegranate seeds
+        - Hazelnut
+        - Walnut
+        - Cinnamon
+---
+Aşure or Noah's pudding is a traditional dessert. It has various ingredients each of which has different cooking times.
+
+<!--more-->
+
+Aşure means "tenth" in Arabic because it is cooked on 10th of Muharram month in Muslim calendar. It has different histories in different religions. When Noah's Ark arrived to Mount Ararat they had little supplies. Noah's family wanted to celebrate his arrival , cooking everything they had to form a dessert. This dessert is called now Aşure.
+
+Aşure is known as having various ingredients and being cooked in large amounts to serve family and neighbours.
+Due to different kind of ingredients in this dessert, it is better to cook them separately before cook them all together.
+
+{% include recipe-summary.html %}
+
+{% include recipe-ingredients.html %}
+
+### Prepare
+
+**resim 5 i koy**
+
+* Wash chickpeas, white kidney beans and barley and soak overnight.
+
+**resim 1 i koy**
+
+* After draining kidney beans and chikpeas, add water (water should cover all grains) and cook them until the grains dissolve
+* Drain them when they are cooked enough
+* Wash barley with your hands until the water is now yellow and drain it
+* Add water (water level should be more than barley) and cook it in a large pot until grains are dissolved
+
+**resim 6 yi koy**
+
+* Cooking barley in pressure cookeer would be easier. Otherwise add more boiling water until it is dissolved enough
+* Dice dry appricots and soak in boiled water for 10 minutes
+
+**resim 3 u koy**
+**resim 8 i koy**
+
+* Wash and drain dry grapes.
+
+**resim 7 i koy**
+
+* Add chikpeas, kidney beans and dry grapes to barley and cook them
+* Add more boiling water
+* Wash and drain boiled corn seeds, dry appricots and add them to the mixture
+* Add more boiling water again
+* Wash figs and cut in pieces. Cook them for 5 minutes until the water is black so that Aşure's color wont be dark
+
+**resim 9u koy**
+
+* Soak cloves with bolied water for 5 minutes and add this water to Aşure
+* Lastly add sugar and roasted peanut
+
+**resim 2yi koy**
+
+* Cook Aşure 5 more minutes
+
+**resim Serve99 u koy**
+
+### Serve
+
+* Garnish with pomegranate seeds, hazelnut, walnut, cinnamon
+* Serve hot or cold
+
+**resim Serve 2 yi ve serve 3u  koy**
+
+![]({{ '/post-assets/recipes/kabak-mucveri/kabak_mucveri_08.jpg' | prepend: site.baseurl }})

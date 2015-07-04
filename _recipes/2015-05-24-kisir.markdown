@@ -17,7 +17,6 @@ recipe_summary:
 recipe_ingredients:
   - group: Ingredients
     content:
-<<<<<<< Updated upstream
         - 2 cup of fine bulgur
         - 1 cup of hot water
         - 1 onion, finely chopped
@@ -37,27 +36,12 @@ recipe_ingredients:
 
 ---
 
-Kısır is a traditional Turkish salad that can be served as meze or at afternoon tea hour. It is definetely one of the indispensable dishes of meetings of housewieves.
-
-<!--more-->
-
-Although it is very popular in the southern part of Turkey, there are different receipes in different regions.
-
-The differences from Tabbouleh are being much spicier and having salca in it.  
-It can be served with **Ayran** and **Turkish tea**. 
-
-=======
-        - 2 cups of fine bulgur        - 1 cups of hot water        - 1 onion, finely chopped        - 2 cloves of garlic, finely chopped        - ½ cup of olive oil        - 1.5 tsp salt        - 1 tsp mint        - 1 tsp black pepper        - 1 tsp red pepper        - 1 tsp cumin         - 1.5 tbsp tomato paste or 1 tbsp turkish salça        - ½ bunch green onions, finely chopped        - 1 bunch flat leaf parsley, finely chopped        - 1 head romain lettuce, finely chopped        - 5-6 tomatoes        - ½-1 lemon (after tasting you can add the second half)
-
----
-
 Kısır is a traditional Turkish salad that can be served as meze or at afternoon tea hour. 
 <!--more-->
 It is one of the indispensable dishes of meetings of housewieves.
 
 Although it is very popular in the southern part of Turkey, there are different receipes in different regions.The difference from Arabic *Tabbouleh* is that Kısır has salça (tomato paste) and different spices.
 It can be served with **Ayran** or **Turkish tea**. 
->>>>>>> Stashed changes
 
 {% include recipe-summary.html %}
 
