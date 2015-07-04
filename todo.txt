@@ -1,0 +1,20 @@
+* Get a Twitter account
+* Review about page
+* Logo
+* Facebook comments instead of Disqus
+* Update Google Analytics
+* Logo
+** Use in about page and layout-head
+* Share butonu / Tweet, FB-like, Pinterest, G+ sayisi : simplesharebuttons branch'inda var. ama metadata ayarlari lazim FB'de Twitter'da falan guzel bir sekilde paylasmak icin.
+* Resimler basinca buyusun!
+
+* Bazi kriterler! Hem listede hem de detay sayfasinda
+** Kac dakika hazirlamasi suruyor
+** Ne kadar pisme suresi
+** Toplam ne kadar zaman
+** Kac kisilik tarif
+** Complexity : 1-5
+** Malzemelerin her yerde bulunabilmesi
+** Exotic tat : 1-5
+** Vegan/vegetarian?
+**

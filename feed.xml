@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Turkish Cuisine</title>
+    <description>*Turkish Cuisine* is a project to introduce Turkish kitchen to people all around the world. All content is licensed under [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+</description>
+    <link>http://gamzeok.github.io/the-food-project/</link>
+    <atom:link href="http://gamzeok.github.io/the-food-project/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 04 Jul 2015 16:47:42 +0200</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2015 16:47:42 +0200</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Kabak Mücveri</title>
+        <description>&lt;p&gt;Mücver is a fritter which is made mainly from zucchinis.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 09 May 2015 14:00:00 +0200</pubDate>
+        <link>http://gamzeok.github.io/the-food-project/recipes/2015-05-09-kabak-mucveri.html</link>
+        <guid isPermaLink="true">http://gamzeok.github.io/the-food-project/recipes/2015-05-09-kabak-mucveri.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Kısır</title>
+        <description>&lt;p&gt;Kısır is a traditional Turkish salad that can be served as meze or at afternoon tea hour.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 24 May 2015 14:00:00 +0200</pubDate>
+        <link>http://gamzeok.github.io/the-food-project/recipes/2015-05-24-kisir.html</link>
+        <guid isPermaLink="true">http://gamzeok.github.io/the-food-project/recipes/2015-05-24-kisir.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Cacık</title>
+        <description>&lt;p&gt;&lt;strong&gt;Cacık&lt;/strong&gt; is a refreshing dish which can be served as meze or as a cold dish&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 09 May 2015 14:00:00 +0200</pubDate>
+        <link>http://gamzeok.github.io/the-food-project/recipes/2015-05-28-cacik.html</link>
+        <guid isPermaLink="true">http://gamzeok.github.io/the-food-project/recipes/2015-05-28-cacik.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Aşure</title>
+        <description>&lt;p&gt;Aşure or Noah’s pudding is a traditional dessert. It has various ingredients each of which has different cooking times.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 30 Jun 2015 14:00:00 +0200</pubDate>
+        <link>http://gamzeok.github.io/the-food-project/recipes/2015-06-30-asure.html</link>
+        <guid isPermaLink="true">http://gamzeok.github.io/the-food-project/recipes/2015-06-30-asure.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
